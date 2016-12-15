@@ -1,0 +1,8 @@
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/utils/AtomTimeStampBuilder.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/atom/AtomLogger.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/atom/AtomGenerate.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/utils/TimeStampBuilderOld.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/kafka/AtomKafkaInjector.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/atom/AtomDataInjector.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/utils/AtomInjectConfiguration.java
+/Users/raphael/Documents/Etudes_Informatique/GitHub/Finaxys/streaming-platform/inject-layer/src/main/java/com/finaxys/utils/InjectLayerException.java
